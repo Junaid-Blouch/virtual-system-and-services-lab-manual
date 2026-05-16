@@ -1,7 +1,7 @@
 # Virtual System and Services Lab Manual
 
 **University:** Muhammad Nawaz Sharif University of Engineering and Technology, Multan  
-**Program:** BS‑IT | **Session:** 2023–2027  
+**Program:** BS‑IT | **Semester:** 6th | **Session:** 2023–2027  
 **Student:** M. Junaid (Reg. No. 2023‑IT‑39)  
 **Supervised by:** Mam Ayesha Alam  
 
